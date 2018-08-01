@@ -30,8 +30,6 @@ public class mainForm extends Frame {
 	Globe globe;
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.print("ÓÎÏ·¿ªÊ¼");
 		frame = new mainForm();
 		frame.launch();
 	}
